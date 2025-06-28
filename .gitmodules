@@ -7,3 +7,6 @@
 [submodule "AgenticDAO-ElizaOS"]
 	path = AgenticDAO-ElizaOS
 	url = https://github.com/VisionChainNetwork/AgenticDAO-ElizaOS
+[submodule "VisionChainNode"]
+	path = VisionChainNode
+	url = https://github.com/VisionChainNetwork/VisionChainNode
