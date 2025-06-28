@@ -1,3 +1,6 @@
 [submodule "AgenticDAO-App"]
 	path = AgenticDAO-App
 	url = https://github.com/VisionChainNetwork/AgenticDAO-App
+[submodule "AgenticDAO-DIDR"]
+	path = AgenticDAO-DIDR
+	url = https://github.com/VisionChainNetwork/AgenticDAO-DIDR
